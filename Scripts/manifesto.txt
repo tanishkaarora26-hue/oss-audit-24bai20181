@@ -1,0 +1,6 @@
+----- Open Source Manifesto -----
+Date: 30 March 2026
+
+I believe open source stands for no restrictions.
+Tools like WhatsApp empower developers worldwide.
+I aim to build business and share it freely with others.
